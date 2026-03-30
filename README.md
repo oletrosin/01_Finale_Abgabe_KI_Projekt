@@ -8,19 +8,20 @@ Finale Abgabe im Modul "KI-unterstützte Produktentwicklung" (Prof. Dr. Arthur S
 * Mika Wettstaedt
 * Pia Voigtländer
 * Luca Russek
-* Raphael Wohlers
+* Raphael Wohler
 * Irina Kireeva
 
 ---
 
-## ⚠️ Wichtiger Hinweis zur Auswertung (Sicherheit & API-Schlüssel)
+## ⚠️ Wichtiger Hinweis zur Auswertung (Sicherheit, API-Schlüssel & Normen)
 
-Aus Sicherheitsgründen und zur Einhaltung gängiger Best Practices in der Softwareentwicklung wurden in diesem Repository alle sensiblen Zugangsdaten aus dem Code entfernt:
+Aus Sicherheitsgründen, zum Schutz von Urheberrechten und zur Einhaltung gängiger Best Practices in der Softwareentwicklung wurden in diesem öffentlichen Repository bestimmte sensible Dateien und Zugangsdaten entfernt:
 
-* **Doppelstufiger LLM-Ansatz:** Die `.env`-Datei mit den Umgebungsvariablen wurde nicht in das öffentliche/private Repository hochgeladen.
+* **Doppelstufiger LLM-Ansatz:** Die `.env`-Datei mit den Umgebungsvariablen wurde nicht in das Repository hochgeladen.
 * **RAG-System-Ansatz:** Die ursprünglich direkt in den Code integrierten API-Schlüssel wurden aus den entsprechenden Skripten restlos entfernt.
+* **Vertrauliche Dokumente (IEEE-Norm):** Das PDF-Dokument zur ISO/IEC/IEEE 29148 Norm wurde aus Gründen der Vertraulichkeit und des Urheberrechtsschutzes nicht mit hochgeladen.
 
 **Für die vollständige Beurteilung und Ausführung der Projektarbeit:**
-Bitte greifen Sie auf den ZIP-Ordner zurück, der Ihnen am **29.03.2026** per E-Mail übermittelt wurde. Dieser enthält die vertraulichen Originaldateien inklusive der funktionsfähigen Schlüssel, die zur Ausführung zwingend benötigt werden.
+Bitte greifen Sie auf den ZIP-Ordner zurück, der Ihnen am **29.03.2026** per E-Mail übermittelt wurde. Dieser enthält alle Originaldateien – inklusive der funktionsfähigen Schlüssel, die zur Ausführung zwingend benötigt werden, sowie der vollständigen IEEE-Norm.
 
-Ein ergänzender Hinweis hierzu (inklusive der Bestätigung über die Bereinigung der Repository-Historie) wurde am **30.03.2026** nochmals per E-Mail an Sie versandt.
+Ein ergänzender Hinweis hierzu wurde am **30.03.2026** nochmals per E-Mail an Sie versandt.
